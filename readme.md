@@ -1,0 +1,1 @@
+This example shows that there is a problem with projections of entities in EF Core that use a Custom Type on IDs.
